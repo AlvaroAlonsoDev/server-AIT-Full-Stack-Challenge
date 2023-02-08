@@ -1,0 +1,1 @@
+start cmd.exe /k "cd C:\Users\airur\OneDrive/Documentos/Assembler/Prueba/apirestnode && npm start"
